@@ -1,0 +1,8 @@
+2019-10-29 23:23:38,956 INFO 37499[service.py:82 process]: title[From Open-Falcon] message[[P0][PROBLEM][hadoop] to_party[12]
+2019-10-29 23:23:38,956 INFO 37499[wechat.py:18 get_token]: gtoken url: https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=wwc493b6f1957cf461&corpsecret=HWtuHcykgfl7HtPKI0HgBGT6LLogyvYBukjmKp6x43c
+2019-10-29 23:23:39,755 INFO 37499[wechat.py:47 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-10-29 23:23:39,756 INFO 37499[service.py:84 process]: wechat return True
+2019-10-29 23:23:38,956 INFO 37499[service.py:82 process]: title[From Open-Falcon] message[[P0][PROBLEM][hadoop] to_party[12]
+2019-10-29 23:23:38,956 INFO 37499[wechat.py:18 get_token]: gtoken url: https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=wwc493b6f1957cf461&corpsecret=HWtuHcykgfl7HtPKI0HgBGT6LLogyvYBukjmKp6x43c
+2019-10-29 23:23:39,755 INFO 37499[wechat.py:47 msg]: wechat return {u'invaliduser': u'', u'errcode': 0, u'errmsg': u'ok'}
+2019-10-29 23:23:39,756 INFO 37499[service.py:84 process]: wechat return True
